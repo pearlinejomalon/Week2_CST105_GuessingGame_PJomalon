@@ -1,3 +1,9 @@
+/**Pogram: GuessingGame Program
+*File: GuessingGame.java
+*Summary: Generates a random number and user inputs a guess.
+*Author: Pearl Jomalon
+*Date: September 23, 2018
+**/
 
 import java.util.Random;
 import java.util.Scanner;
